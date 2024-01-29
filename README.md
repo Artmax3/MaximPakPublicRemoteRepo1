@@ -1,1 +1,1 @@
-# MaximPakPublicRemoteRepo1
+# changed for conflict
